@@ -1,0 +1,1 @@
+# Hibernate_NonSelect_Bulk_Operation
